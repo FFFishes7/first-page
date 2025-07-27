@@ -13,3 +13,7 @@ p {
 li:hover {
   color: rgb(185, 35, 230);
 }
+
+img[src] {
+  color: rgb(237, 114, 159);
+}
