@@ -1,0 +1,15 @@
+.chosen {
+  color: rgb(105, 157, 108);
+}
+
+#adh {
+  color: rgb(255, 156, 8);
+}
+
+p {
+  color: rgb(0, 98, 255);
+}
+
+li:hover {
+  color: rgb(185, 35, 230);
+}
