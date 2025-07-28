@@ -7,8 +7,8 @@ html {
 body {
   width: 600px;
   margin: 30px auto;
-  background-color: #8f94ff;
-  padding: 0 20px 20px 20px;
+  background-color: #adb1ff;
+  padding: 0 40px 20px 40px;
   border: 7px ridge rgba(145, 238, 238, 0.807);
 }
 
@@ -22,7 +22,9 @@ h1 {
 }
 
 p,
-li {
+li,
+h2,
+footer {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1.5px;
@@ -30,4 +32,16 @@ li {
 img {
   display: block;
   margin: 0 auto;
+  width: 398px;
+  height: 398px;
+  object-fit: cover;
+}
+
+footer {
+  margin: 0px;
+  padding: 30px 20px 0px;
+  text-align: right;
+}
+a {
+  color: #474dc4;
 }
