@@ -32,8 +32,6 @@ footer {
 img {
   display: block;
   margin: 0 auto;
-  width: 398px;
-  height: 398px;
   object-fit: cover;
 }
 
